@@ -33,6 +33,11 @@ subtitle = ""
   name = "Nextflow"
   description = ""
 
+[[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Cloud"
+  description = ""
 
 [[feature]]
   icon = "dna"
