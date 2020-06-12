@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Simone Coughlan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer in Genomics Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: National University of Ireland, Galway
+  url: "https://www.nuigalway.ie/science/school-of-maths/"
+- name: SFI Centre for Research Training in Genomics Data Science 
+  url: "https://genomicsdatascience.ie/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bioinformatics 
+- Microbial Genomics
+- Reproducible research
+- Structural Variant discovery and analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Bioinformatics
+    institution: National University of Ireland, Galway
+    year: 2016
+  - course: MSc in Bioinformatics with Systems Biology
+    institution: University College Cork 
+    year: 2011
+  - course: BSc in Industrial Biochemistry
+    institution: University of Limerick
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +47,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:simonechristina.coughlan@nuigalway.ie"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/coughls
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=-o0zZh8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/coughls
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/simone-coughlan-9b789830/
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Lecturer in Genomics Data Science in the SFI Centre for Research Training in Genomics Data Science at the National University of Ireland, Galway. I have a PhD in bioinformatics (pathogen genomics) and have also worked as a bioinformatician in industry. My research interests include microbial genomics, metagenomics, population genomics and structural variation discovery. My teaching interests include teaching methods to aid reproducibility (version control, workflow managers, containers, FAIR data principles) as well as teaching programming and bioinformatics analysis.
