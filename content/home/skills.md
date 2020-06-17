@@ -51,6 +51,12 @@ subtitle = ""
   name = "Docker"
   description = ""
 
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "git"
+  description = ""
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
