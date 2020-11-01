@@ -2,7 +2,7 @@
 title: Version Control Workshop
 date: 2020-09
 authors: [admin]
-summary: Workshop on version control with Git & Github
+summary: Workshop on version control with Git & Github for Genomics Data Science PhD students
 abstract: 
 external_link: "https://github.com/coughls/Git-training"
 image:
